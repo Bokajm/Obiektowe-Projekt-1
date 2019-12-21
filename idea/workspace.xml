@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9ea6e2dd-8fc7-4cbc-917b-24473479d610" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="lab6.0" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SKDqIVHuySQ66fdZsFOvtoa8um" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="findjar.last.used.dir" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunManager" selected="Application.World">
+    <configuration name="World" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="agh.cs.lab2.World" />
+      <module name="lab2.0" />
+      <option name="PROGRAM_PARAMETERS" value="f b r l f f r r f f f f f f f f l r" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="World" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="agh.cs.lab2.World" />
+      <module name="lab2.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="agh.cs.lab2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in lab2.0" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab2.0" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AnimalTestPack.testAnimalMovesParser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab2.0" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AnimalTestPack" />
+      <option name="METHOD_NAME" value="testAnimalMovesParser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapTest.collisionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab2.0" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MapTest" />
+      <option name="METHOD_NAME" value="collisionTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapTest.runTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab2.0" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MapTest" />
+      <option name="METHOD_NAME" value="runTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.World" />
+      <item itemvalue="JUnit.All in lab2.0" />
+      <item itemvalue="JUnit.MapTest.collisionTest" />
+      <item itemvalue="JUnit.AnimalTestPack.testAnimalMovesParser" />
+      <item itemvalue="JUnit.MapTest.runTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.World" />
+        <item itemvalue="JUnit.All in lab2.0" />
+        <item itemvalue="JUnit.MapTest.collisionTest" />
+        <item itemvalue="JUnit.MapTest.runTest" />
+        <item itemvalue="JUnit.AnimalTestPack.testAnimalMovesParser" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9ea6e2dd-8fc7-4cbc-917b-24473479d610" name="Default Changelist" comment="" />
+      <created>1571303582607</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571303582607</updated>
+      <workItem from="1571303586160" duration="2204000" />
+      <workItem from="1571843586665" duration="7885000" />
+      <workItem from="1573074228756" duration="11666000" />
+      <workItem from="1573118584519" duration="528000" />
+      <workItem from="1573687419862" duration="1789000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="515" y="75" key="#World_(1)" timestamp="1576941308063">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="515" y="75" key="#World_(1)/0.0.1600.860@0.0.1600.860" timestamp="1576941308063" />
+    <state x="605" y="139" key="#com.intellij.ide.util.MemberChooser" timestamp="1576954499123">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="605" y="139" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1576954499123" />
+    <state width="1557" height="458" key="GridCell.Tab.0.bottom" timestamp="1576964569893">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="458" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1576964569893" />
+    <state width="1557" height="458" key="GridCell.Tab.0.center" timestamp="1576964569893">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="458" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1576964569893" />
+    <state width="1557" height="458" key="GridCell.Tab.0.left" timestamp="1576964569893">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="458" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1576964569893" />
+    <state width="1557" height="458" key="GridCell.Tab.0.right" timestamp="1576964569893">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="458" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1576964569893" />
+    <state x="280" y="4" key="SettingsEditor" timestamp="1576963376824">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="280" y="4" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1576963376824" />
+    <state x="501" y="253" key="com.intellij.ide.util.TipDialog" timestamp="1576940632462">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="501" y="253" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1576940632462" />
+    <state x="456" y="195" key="run.anything.popup" timestamp="1576955335578">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="456" y="195" key="run.anything.popup/0.0.1600.860@0.0.1600.860" timestamp="1576955335578" />
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1576958185420">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1576958185420" />
+  </component>
+</project>
